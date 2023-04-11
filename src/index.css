@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+  @apply shadow-lg shadow-gray-300 border p-4 mb-3 rounded-md bg-white/[.6] hover:bg-white;
+}
+.btn-md {
+  @apply py-1 px-3 bg-rose-300 hover:bg-rose-400 rounded-md font-bold text-white;
+}
+.category {
+  @apply flex-1 text-center mr-2 bg-white/[.8] shadow-lg shadow-gray-200   md:py-7 px-4 rounded-md font-bold hover:bg-rose-400 hover:shadow-rose-300 hover:text-white cursor-pointer text-xl;
+}

@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lorem Ipsum Dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vestibulum metus ac purus consequat feugiat. Nullam eget velit auctor, bibendum nulla sit amet, aliquet tortor.",
+      "price": 19.99,
+      "category": "entrees",
+      "rating": 4.5,
+      "image": "https://picsum.photos/200/200/?random"
+    },
+    {
+      "id": 2,
+      "name": "Vestibulum Metus",
+      "description": "Vestibulum metus nulla, bibendum at blandit vel, consectetur quis magna. Fusce interdum sapien quis enim fringilla, a pharetra urna efficitur. Sed sem mauris, malesuada at congue vel, interdum id est.",
+      "price": 29.99,
+      "category": "burger",
+      "rating": 3.8,
+      "image": "https://picsum.photos/200/200/?random"
+    },
+    {
+      "id": 3,
+      "name": "Aliquet Tortor",
+      "description": "Aliquam erat volutpat. Sed eget lectus vel leo venenatis pulvinar eu in quam. Integer id eleifend ante. Nulla facilisi. Sed eu libero nec augue hendrerit convallis. Etiam bibendum nulla vel turpis efficitur fringilla.",
+      "price": 12.99,
+      "category": "pizza",
+      "rating": 4.2,
+      "image": "https://picsum.photos/200/200/?random"
+    },
+    {
+      "id": 4,
+      "name": "Lorem Ipsum Dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vestibulum metus ac purus consequat feugiat. Nullam eget velit auctor, bibendum nulla sit amet, aliquet tortor.",
+      "price": 19.99,
+      "category": "entrees",
+      "rating": 4.5,
+      "image": "https://picsum.photos/200/200/?random"
+    },
+    {
+      "id": 5,
+      "name": "Vestibulum Metus",
+      "description": "Vestibulum metus nulla, bibendum at blandit vel, consectetur quis magna. Fusce interdum sapien quis enim fringilla, a pharetra urna efficitur. Sed sem mauris, malesuada at congue vel, interdum id est.",
+      "price": 29.99,
+      "category": "burger",
+      "rating": 3.8,
+      "image": "https://picsum.photos/200/200/?random"
+    },
+    {
+      "id": 6,
+      "name": "Aliquet Tortor",
+      "description": "Aliquam erat volutpat. Sed eget lectus vel leo venenatis pulvinar eu in quam. Integer id eleifend ante. Nulla facilisi. Sed eu libero nec augue hendrerit convallis. Etiam bibendum nulla vel turpis efficitur fringilla.",
+      "price": 12.99,
+      "category": "pizza",
+      "rating": 4.2,
+      "image": "https://picsum.photos/200/200/?random"
+    },
+    {
+      "id": 7,
+      "name": "Lorem Ipsum Dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vestibulum metus ac purus consequat feugiat. Nullam eget velit auctor, bibendum nulla sit amet, aliquet tortor.",
+      "price": 19.99,
+      "category": "entrees",
+      "rating": 4.5,
+      "image": "https://picsum.photos/200/200/?random"
+    },
+    {
+      "id": 8,
+      "name": "Vestibulum Metus",
+      "description": "Vestibulum metus nulla, bibendum at blandit vel, consectetur quis magna. Fusce interdum sapien quis enim fringilla, a pharetra urna efficitur. Sed sem mauris, malesuada at congue vel, interdum id est.",
+      "price": 29.99,
+      "category": "burger",
+      "rating": 3.8,
+      "image": "https://picsum.photos/200/200/?random"
+    },
+    {
+      "id": 9,
+      "name": "Aliquet Tortor",
+      "description": "Aliquam erat volutpat. Sed eget lectus vel leo venenatis pulvinar eu in quam. Integer id eleifend ante. Nulla facilisi. Sed eu libero nec augue hendrerit convallis. Etiam bibendum nulla vel turpis efficitur fringilla.",
+      "price": 12.99,
+      "category": "pizza",
+      "rating": 4.2,
+      "image": "https://picsum.photos/200/200/?random"
+    },
+    {
+      "id": 10,
+      "name": "Lorem Ipsum Dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vestibulum metus ac purus consequat feugiat. Nullam eget velit auctor, bibendum nulla sit amet, aliquet tortor.",
+      "price": 19.99,
+      "category": "entrees",
+      "rating": 4.5,
+      "image": "https://picsum.photos/200/200/?random"
+    },
+    {
+      "id": 11,
+      "name": "Vestibulum Metus",
+      "description": "Vestibulum metus nulla, bibendum at blandit vel, consectetur quis magna. Fusce interdum sapien quis enim fringilla, a pharetra urna efficitur. Sed sem mauris, malesuada at congue vel, interdum id est.",
+      "price": 29.99,
+      "category": "burger",
+      "rating": 3.8,
+      "image": "https://picsum.photos/200/200/?random"
+    },
+    {
+      "id": 12,
+      "name": "Aliquet Tortor",
+      "description": "Aliquam erat volutpat. Sed eget lectus vel leo venenatis pulvinar eu in quam. Integer id eleifend ante. Nulla facilisi. Sed eu libero nec augue hendrerit convallis. Etiam bibendum nulla vel turpis efficitur fringilla.",
+      "price": 12.99,
+      "category": "pizza",
+      "rating": 4.2,
+      "image": "https://picsum.photos/200/200/?random"
+    }
+  ]
+}
